@@ -11,7 +11,8 @@
   "author": "",
   "license": "UNLICENSED",
   "dependencies": {
-    "inquirer": "^8.2.4",
+    "cjs": "^0.0.11",
+    "inquirer": "^8.2.6",
     "parser": "^0.1.4"
   },
   "devDependencies": {
