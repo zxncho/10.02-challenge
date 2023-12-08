@@ -4,7 +4,7 @@ This project is a logo generator. It uses an API to generate a logo based on com
 
 # Application Demo
 
-[demo] (https://zxncho.github.io/06.02-challenge/)
+[demo] (https://drive.google.com/file/d/1oTDMJRHcco8di6IgslTp9PoC2oT_GY2w/view)
 
 
 ## Usage
